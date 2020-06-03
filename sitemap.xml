@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://theriven.com/about/index.html</loc>
+    
+    <lastmod>2020-06-03T15:51:06.952Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://theriven.com/contact/index.html</loc>
+    
+    <lastmod>2020-06-03T15:49:14.259Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://theriven.com/friends/index.html</loc>
+    
+    <lastmod>2020-06-03T15:48:40.927Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://theriven.com/archives/index.html</loc>
+    
+    <lastmod>2020-06-03T15:33:53.446Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://theriven.com/2020/06/02/hello-world/</loc>
     
     <lastmod>2020-06-02T13:53:17.501Z</lastmod>
@@ -16,35 +44,7 @@
   </url>
   
   <url>
-    <loc>https://theriven.com/about/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://theriven.com/archives/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://theriven.com/categories/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://theriven.com/contact/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://theriven.com/friends/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
